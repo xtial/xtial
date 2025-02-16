@@ -1,71 +1,87 @@
-#  have fun and enjoy my open source projects.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=Ethical+Hacker+%7C+Security+Researcher;Python+Developer+%7C+Web+Security;Always+learning%2C+always+hacking)](https://git.io/typing-svg)
-
-</div>
-
-## 🔐 About Me
-
-```python
-class Hacker:
-    def __init__(self):
-        self.name = "xtial"
-        self.role = "Fullstack Devops"
-        self.language_spoken = ["en_US", "py_TH0N", "js_CODE"]
-        self.current_work = "Working on the future"
-        self.current_learning = "Advanced Penetration Testing / Cybersecurity"
-    
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-me = Hacker()
-me.say_hi()
-```
-
-## 🛠 branding
-
-### 🔧 tools
-```ascii
-⚡ Python      ⚡ JavaScript    ⚡ Flask
-⚡ SQL         ⚡ HTML/CSS      ⚡ React
-⚡ Git         ⚡ Docker        ⚡ Linux
-```
-
-### 🚀 Projects
-- 🔒 GhostX - Advanced Email Management System
-
-
-## 📊 Stats
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=7A7A7A&random=false&width=435&lines=%3E+initializing+system;%3E+accessing+neural+network;%3E+connection+established)](https://git.io/typing-svg)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtial&show_icons=true&theme=radical)
+```
+███████╗ ██████╗███████╗████████╗ █████╗ ███████╗██╗   ██╗
+██╔════╝██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔════╝╚██╗ ██╔╝
+█████╗  ██║     ███████╗   ██║   ███████║███████╗ ╚████╔╝ 
+██╔══╝  ██║     ╚════██║   ██║   ██╔══██║╚════██║  ╚██╔╝  
+███████╗╚██████╗███████║   ██║   ██║  ██║███████║   ██║   
+╚══════╝ ╚═════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=50&lines=python+prophet+%E2%80%A2+fullstack;system.init()+%7C+neural.connect()+%7C+matrix.load()" alt="Subtitle" />
 
 </div>
 
-## 🎯 Current Focus
-```ascii
-┌──────────────────────────────────────┐
-│  🔍 Penetration Testing              │
-│  🔐 Web Application Security         │
-│  🛡️ Secure System Architecture       │
-└──────────────────────────────────────┘
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
-## 🌐 Connect With Me
-```ascii
-[+] Email     : xtial@github.com
-[+] GitHub    : github.com/xtial
-[+] Website   : [Coming Soon]
-```
+<div align="center">
+<table>
+<tr>
+<td>
+
+### `the one who seeks` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<details open>
+<summary><b>identity</b></summary>
+<br>
+<img src="https://img.shields.io/badge/ALIAS-ecstasy-black?style=flat-square&logo=ghost&logoColor=white"/>
+<img src="https://img.shields.io/badge/HANDLE-@xtial-black?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-black?style=flat-square&logo=statuspage&logoColor=white"/>
+</details>
+
+<details open>
+<summary><b>information</b></summary>
+<br>
+<img src="https://img.shields.io/badge/PRONOUNS-he%2Fhim-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/TIMEZONE-UTC%20%2B09%3A00-black?style=flat-square&logo=clockify&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCATION-darkness-black?style=flat-square&logo=matrix&logoColor=white"/>
+</details>
+
+<details open>
+<summary><b>communication</b></summary>
+<br>
+<a href="mailto:recitalofx@gmail.com"><img src="https://img.shields.io/badge/PRIMARY-recitalofx%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://guns.lol/antifed"><img src="https://img.shields.io/badge/SECONDARY-guns.lol%2Fantifed-black?style=flat-square&logo=dark-reader&logoColor=white"/></a>
+</details>
+
+
+</td>
+</tr>
+</table>
+</div>
 
 <div align="center">
 
-### "The quieter you become, the more you can hear" 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtial&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=7A7A7A&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtial&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
----
+## Notable Projects
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=xtial&style=flat-square&color=00ff00" alt="Profile views"/>
-</div> 
+
+[![GhostX](https://github-readme-stats.vercel.app/api/pin/?username=xtial&repo=GhostX&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=7A7A7A)](https://github.com/xtial/GhostX)
+[![mdmapanel](https://github-readme-stats.vercel.app/api/pin/?username=xtial&repo=mdmapanel&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=7A7A7A)](https://github.com/xtial/mdmapanel)
+[![Roblox-Ban-Monitor-Bot](https://github-readme-stats.vercel.app/api/pin/?username=xtial&repo=Roblox-Ban-Monitor-Bot&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=7A7A7A)](https://github.com/xtial/Roblox-Ban-Monitor-Bot)
+
+</div>
+
+## Tech Stack
+
+![](https://img.shields.io/badge/Python-Expert-black?style=flat&logo=python&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Svelte-Proficient-black?style=flat&logo=svelte&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Security-Advanced-black?style=flat&logo=hackaday&logoColor=white&color=000000)
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=xtial&color=000000&style=flat&label=views)](https://github.com/xtial)
+
+</div>
