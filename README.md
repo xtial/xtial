@@ -40,7 +40,6 @@ paradise
 <summary><b>communication</b></summary>
 <br>
 <a href="mailto:recitalofx@gmail.com"><img src="https://img.shields.io/badge/PRIMARY-recitalofx%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://guns.lol/antifed"><img src="https://img.shields.io/badge/SECONDARY-guns.lol%2Fantifed-black?style=flat-square&logo=dark-reader&logoColor=white"/></a>
 </details>
 
 
