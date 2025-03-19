@@ -24,8 +24,7 @@ paradise
 <details open>
 <summary><b>identity</b></summary>
 <br>
-<img src="https://img.shields.io/badge/ALIAS-ecstasy-black?style=flat-square&logo=ghost&logoColor=white"/>
-<img src="https://img.shields.io/badge/HANDLE-@xtial-black?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ALIAS-paradise-black?style=flat-square&logo=ghost&logoColor=white"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-black?style=flat-square&logo=statuspage&logoColor=white"/>
 </details>
 
