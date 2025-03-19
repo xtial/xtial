@@ -3,12 +3,7 @@
 <div align="center">
 
 ```
-███████╗ ██████╗███████╗████████╗ █████╗ ███████╗██╗   ██╗
-██╔════╝██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔════╝╚██╗ ██╔╝
-█████╗  ██║     ███████╗   ██║   ███████║███████╗ ╚████╔╝ 
-██╔══╝  ██║     ╚════██║   ██║   ██╔══██║╚════██║  ╚██╔╝  
-███████╗╚██████╗███████║   ██║   ██║  ██║███████║   ██║   
-╚══════╝ ╚═════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   
+paradise
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=50&lines=python+prophet+%E2%80%A2+fullstack+%E2%80%A2+devops;system.init()+%7C+neural.connect()+%7C+matrix.load()" alt="Subtitle" />
